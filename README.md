@@ -1,5 +1,5 @@
 # Animation Player
-This project is not going to become a library itself. It is intended to be a proof of concept showing that:
+This animation player is a proof of concept combining several projects. The goal is to demonstrate:
 	animation matrices can be exported from an external tool (such as a blender script)
 	those animation matrices can be easily ported into C++ projects utilizing OpenGL
 	
