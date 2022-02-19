@@ -1,6 +1,10 @@
+# Animation Player
 This project is not going to become a library itself. It is intended to be a proof of concept showing that:
 	animation matrices can be exported from an external tool (such as a blender script)
 	those animation matrices can be easily ported into C++ projects utilizing OpenGL
+	
+Includes a blender script for exporting basic animations into a usable format
+
 ## Version Notes
 unstable - Works completely fine. uses an animation made in blender (stored in animation.json) as well as a model made in blender (stored in some .obj file idk what it's called)
 	CONTROLS: Scroll wheel to scrub animation
