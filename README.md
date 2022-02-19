@@ -8,7 +8,7 @@ Includes a blender script for exporting basic animations into a usable format
 
 
 ## Version Notes
-unstable - Works completely fine. uses an animation made in blender (stored in animation.json) as well as a model made in blender (stored in some .obj file idk what it's called)
+unstable - Works completely fine. uses an animation made in blender (stored in animation.json) as well as a model made in blender (stored in obj file)
 	CONTROLS: Scroll wheel to scrub animation
 			wasd to move around (always looking at origin)
 
