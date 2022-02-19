@@ -1,0 +1,22 @@
+{
+    "in" : [
+        {
+            "name" : "a_position",
+            "type" : "float",
+            "components" : 4
+        },
+        {
+            "name" : "a_color",
+            "type" : "float",
+            "components" : 3
+        }
+    ],
+
+    "out" : [
+        {
+            "name" : "FragColor",
+            "type" : "float",
+            "components" : 4
+        }
+    ]
+}
